@@ -1,0 +1,22 @@
+{
+  "name": "js-imagegallery",
+  "version": "0.0.1",
+  "description": "js图片库",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziyoushibo/js-imagegallery.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "https://github.com/ziyoushibo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ziyoushibo/js-imagegallery/issues"
+  },
+  "homepage": "https://github.com/ziyoushibo/js-imagegallery#readme"
+}
